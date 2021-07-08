@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">QuakeReports</string>
+    <string name="no_earthquakes_found">No Earthquakes Found</string>
+    <string name="no_interbet_connection">No Internet Connection</string>
 </resources>
