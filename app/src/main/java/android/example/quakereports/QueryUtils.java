@@ -1,8 +1,6 @@
 package android.example.quakereports;
 
-import android.net.UrlQuerySanitizer;
 import android.text.TextUtils;
-import android.util.JsonReader;
 import android.util.Log;
 
 import org.json.JSONArray;
